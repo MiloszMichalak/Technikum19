@@ -1,3 +1,3 @@
 # Technikum19
-Repozytorium z materiałami szkolnymi
+Repozytorium z materiałami szkolnymi </br>
 Wybierz odpowiedni branch żeby przeglądać notatki z danego przedmiotu
