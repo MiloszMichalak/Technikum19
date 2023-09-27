@@ -1,0 +1,23 @@
+// Sortowania przez porównanie
+
+// Stworzenie tablicy 10 losowych liczb <1;20>
+
+// 1. Bąbelkowe
+
+// 2. Przez wybór
+
+// 3. Przez wstawianie
+
+// Sortowania w czasie liniowym
+
+// 4. Przez zliczanie
+
+// 5. Kubełkowe
+
+// Dziel i zwyciężaj 
+
+// 6. Przez scalanie
+
+// 7. Quicksort Hoare
+
+// 8. Quicksort Lomuto
