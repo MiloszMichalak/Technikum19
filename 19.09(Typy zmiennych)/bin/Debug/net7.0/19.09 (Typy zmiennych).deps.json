@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "19.09 (Typy zmiennych)/1.0.0": {
+        "runtime": {
+          "19.09 (Typy zmiennych).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "19.09 (Typy zmiennych)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
