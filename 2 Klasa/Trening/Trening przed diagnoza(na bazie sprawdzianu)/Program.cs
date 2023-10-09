@@ -73,7 +73,7 @@ System.Console.Write("Podaj ciag cyfr: ");
 decimal ciag = Convert.ToInt64(Console.ReadLine());
 ile = 0;
 
-int[] miejsca = new int[58];
+int[] miejsca = new int[100];
 
 // Liczenie ile jest danych cyfr w tablicy
 foreach (int znak in Convert.ToString(ciag)){
@@ -86,10 +86,13 @@ foreach (int znak in Convert.ToString(ciag)){
 
 // Szukanie mina w tablicy;
 int mini = 10;
-for (int i = 48; i < 58; i++){
+for (int i = 0; i < 100; i++){
+    if (miejsca[i] == 0){
+        continue;
+    }
     if (miejsca[i] < mini){
         mini = miejsca[i];
-    }
+        }
 }
 
 int index = Array.IndexOf(miejsca, mini);
