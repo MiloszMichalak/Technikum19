@@ -38,6 +38,13 @@ System.Console.WriteLine(Int128.MaxValue);
 
 System.Console.WriteLine();
 
+System.Console.WriteLine("Wypisywanie ilosci bajtow");
+System.Console.WriteLine(sizeof(byte));
+System.Console.WriteLine(sizeof(bool));
+System.Console.WriteLine(sizeof(float));
+
+System.Console.WriteLine();
+
 // UNICODE (strona do ascii - asciitable.com)
 System.Console.WriteLine("Unicode");
 // Kodowanie powinno dzialac - windows, na linuxie ma lekki problem
