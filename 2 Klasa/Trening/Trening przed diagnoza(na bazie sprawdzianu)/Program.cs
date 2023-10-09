@@ -103,4 +103,3 @@ System.Console.WriteLine();
 // Zadanie 3 - Do podanej liczby pierwszej większej od 7 podać 3 liczby pierwsze nieparzyste których suma jest równa tej liczbie
 System.Console.WriteLine("Zadanie 3");
 // no nie wiem
-
