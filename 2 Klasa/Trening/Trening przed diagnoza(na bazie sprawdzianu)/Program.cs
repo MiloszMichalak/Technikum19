@@ -70,13 +70,13 @@ System.Console.WriteLine();
 System.Console.WriteLine("Zadanie 2");
 System.Console.Write("Podaj ciag cyfr: ");
 
-decimal ciag = Convert.ToInt64(Console.ReadLine());
+string ciag = Console.ReadLine();
 ile = 0;
 
 int[] miejsca = new int[100];
 
 // Liczenie ile jest danych cyfr w tablicy
-foreach (int znak in Convert.ToString(ciag)){
+foreach (int znak in ciag){
     miejsca[znak]++;
     ile++;
     if (ile == 40){
@@ -85,7 +85,8 @@ foreach (int znak in Convert.ToString(ciag)){
 }
 
 // Szukanie mina w tablicy;
-int mini = 10;
+int mini = ciag.Length;
+
 for (int i = 0; i < 100; i++){
     if (miejsca[i] == 0){
         continue;
@@ -100,6 +101,6 @@ System.Console.WriteLine($"Najrzadziej wystepuje cyfra {(char)index} w pierwszyc
 
 System.Console.WriteLine();
 
-// Zadanie 3 - Do podanej liczby pierwszej większej od 7 podać 3 liczby pierwsze nieparzyste których suma jest równa tej liczbie
+// Zadanie 3 - Do podanej liczby pierwsziej większej od 7 podać 3 liczby pierwsze nieparzyste których suma jest równa tej liczbie
 System.Console.WriteLine("Zadanie 3");
 // no nie wiem
