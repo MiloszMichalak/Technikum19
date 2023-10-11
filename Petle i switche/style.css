@@ -1,0 +1,48 @@
+/*Montserrat 400*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+#title{
+    font-size: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container{
+    width: 90%;
+    background-color: rgb(202, 202, 202);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card{
+    border-radius: 30px;
+    border-style: solid;
+    border-color: rgb(43, 43, 43);
+    width: 200px;
+    text-align: center;
+    display: block;
+}
+
+.card-title{
+    font-size: 18px;
+}
+
+.show{
+    visibility: visible;
+}
+
+.hide{
+    visibility: hidden;
+}
+
+#button{
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(19, 19, 19);
+    padding: 5px;
+}
