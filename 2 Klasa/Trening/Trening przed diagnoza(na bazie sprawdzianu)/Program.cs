@@ -1,8 +1,8 @@
-﻿// Zadanie -1 - sprawdzanie czy liczba jest ibrahimowska czyli czy jest pierwsza i pomnozona ona przez 2 i dodane do niej jeden dalej daje liczbe pierwsza
+﻿// Zadanie -1 - sprawdzanie czy liczba jest ibrahimowska czyli czy jest pierwsza i pomnozona ona przez 2 i dodane do nqeeqiej jeden dalej daje liczbe pierwsza
 System.Console.WriteLine("Zadanie -1");
 
 bool czyPierwsza(int liczba){
-    for(int i = 2; i < liczba; i++){
+        for(int i = 2; i < liczba; i++){
         if (liczba % i == 0){
             return false;
         }
@@ -54,9 +54,9 @@ for (int i = 0; i < 20; i++){
 }
 
 // Szukanie tych liczb w macierzy
-for (int i = 0; i < 20; i++){
+for (int i = 1; i < 19; i++){
     for (int j = 1; j < 19; j++){
-        if (M[i, j + 1] + M[i, j - 1] == M[i, j]){
+        if (M[i, j + 1] + M[i, j - 1] == M[i, j] && M[i + 1, j] + M[i - 1, j] == M[i, j]){
             ile++;
         }
     }
@@ -82,6 +82,10 @@ foreach (int znak in ciag){
     if (ile == 40){
         break;
     }
+}
+
+foreach (int znak in miejsca){
+    System.Console.Write(znak + " ");
 }
 
 // Szukanie mina w tablicy;
