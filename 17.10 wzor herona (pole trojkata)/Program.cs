@@ -30,7 +30,6 @@ class SprawdzanieBokowTrojkata
       bool isCorrect = false;
       do
       {
-
          System.Console.Write("Podaj a: ");
          // dopoki user nie poda prawidlowego inputa(liczba lub wieksza od 0) bedzie mu kazac wpisac liczbe
          while (!double.TryParse(Console.ReadLine(), out a) || a <= 0){
