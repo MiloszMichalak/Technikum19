@@ -27,11 +27,6 @@ const wypisywanieLiczbFor = () => {
     alert(temp);
 }
 
-const hidingAndShowing = () => {
-    let card = document.getElementsById('karta');
-    card.style.display = "none";
-}
-
 const obliczaniePotegi = () => {
     let podstawa = prompt("Podaj podstawe potegi", "podstawa potegi");
     let podstawa1 = podstawa;
