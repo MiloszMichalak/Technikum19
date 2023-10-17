@@ -1,0 +1,30 @@
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/bin/Debug/net7.0/17.10
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/bin/Debug/net7.0/17.10.deps.json
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/bin/Debug/net7.0/17.10.runtimeconfig.json
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/bin/Debug/net7.0/17.10.dll
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/bin/Debug/net7.0/17.10.pdb
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/obj/Debug/net7.0/17.10.csproj.AssemblyReference.cache
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/obj/Debug/net7.0/17.10.GeneratedMSBuildEditorConfig.editorconfig
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/obj/Debug/net7.0/17.10.AssemblyInfoInputs.cache
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/obj/Debug/net7.0/17.10.AssemblyInfo.cs
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/obj/Debug/net7.0/17.10.csproj.CoreCompileInputs.cache
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/obj/Debug/net7.0/17.10.dll
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/obj/Debug/net7.0/refint/17.10.dll
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/obj/Debug/net7.0/17.10.pdb
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/obj/Debug/net7.0/17.10.genruntimeconfig.cache
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10/obj/Debug/net7.0/ref/17.10.dll
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/bin/Debug/net7.0/17.10
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/bin/Debug/net7.0/17.10.deps.json
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/bin/Debug/net7.0/17.10.runtimeconfig.json
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/bin/Debug/net7.0/17.10.dll
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/bin/Debug/net7.0/17.10.pdb
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/obj/Debug/net7.0/17.10.csproj.AssemblyReference.cache
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/obj/Debug/net7.0/17.10.GeneratedMSBuildEditorConfig.editorconfig
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/obj/Debug/net7.0/17.10.AssemblyInfoInputs.cache
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/obj/Debug/net7.0/17.10.AssemblyInfo.cs
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/obj/Debug/net7.0/17.10.csproj.CoreCompileInputs.cache
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/obj/Debug/net7.0/17.10.dll
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/obj/Debug/net7.0/refint/17.10.dll
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/obj/Debug/net7.0/17.10.pdb
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/obj/Debug/net7.0/17.10.genruntimeconfig.cache
+/media/meleko2/zewnetrzny/Szkola/Repos/Technikum19/17.10 wzor herona (pole trojkata)/obj/Debug/net7.0/ref/17.10.dll
