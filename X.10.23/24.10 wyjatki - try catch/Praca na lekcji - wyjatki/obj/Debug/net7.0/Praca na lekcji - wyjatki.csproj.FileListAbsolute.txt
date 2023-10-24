@@ -1,0 +1,15 @@
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/bin/Debug/net7.0/Praca na lekcji - wyjatki
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/bin/Debug/net7.0/Praca na lekcji - wyjatki.deps.json
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/bin/Debug/net7.0/Praca na lekcji - wyjatki.runtimeconfig.json
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/bin/Debug/net7.0/Praca na lekcji - wyjatki.dll
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/bin/Debug/net7.0/Praca na lekcji - wyjatki.pdb
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/obj/Debug/net7.0/Praca na lekcji - wyjatki.csproj.AssemblyReference.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/obj/Debug/net7.0/Praca na lekcji - wyjatki.GeneratedMSBuildEditorConfig.editorconfig
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/obj/Debug/net7.0/Praca na lekcji - wyjatki.AssemblyInfoInputs.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/obj/Debug/net7.0/Praca na lekcji - wyjatki.AssemblyInfo.cs
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/obj/Debug/net7.0/Praca na lekcji - wyjatki.csproj.CoreCompileInputs.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/obj/Debug/net7.0/Praca na lekcji - wyjatki.dll
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/obj/Debug/net7.0/refint/Praca na lekcji - wyjatki.dll
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/obj/Debug/net7.0/Praca na lekcji - wyjatki.pdb
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/obj/Debug/net7.0/Praca na lekcji - wyjatki.genruntimeconfig.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/obj/Debug/net7.0/ref/Praca na lekcji - wyjatki.dll

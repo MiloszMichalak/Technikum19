@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/home/netrunner/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/Praca na lekcji - wyjatki.csproj",
+      "projectName": "Praca na lekcji - wyjatki",
+      "projectPath": "/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/Praca na lekcji - wyjatki.csproj",
+      "packagesPath": "/home/netrunner/.nuget/packages/",
+      "outputPath": "/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/24.10 wyjatki - try catch/Praca na lekcji - wyjatki/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/netrunner/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
