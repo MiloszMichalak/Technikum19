@@ -24,7 +24,7 @@
                 Console.WriteLine();
 
                 StreamReader streamReader = new StreamReader("..\\..\\..\\Database\\users.txt");
-                while (!streamReader.EndOfStream && flaga)
+                while (!streamReader.EndOfStream)
                 {
                     String[] values = streamReader.ReadLine()!.Split(";");
                     login = values[0];
@@ -34,7 +34,10 @@
                         flaga = false;
                     }
                 }
-                Console.WriteLine("Podales nieprawidlowe dane, sprobuj jeszcze raz");
+                if (flaga)
+                {
+                    Console.WriteLine("Podales nieprawidlowe dane, sprobuj jeszcze raz");
+                }
             }
             
             number = random.Next(1, 10);
@@ -72,28 +75,28 @@
 
                 while (true)
                 {
-                        Console.WriteLine("Napisz koniec aby zakonczyc dzialanie programu\n" +
-                                          "Jakie dzialanie chcesz wykonac: +, -, *, / \n" +
-                                          "Zapisz dzialanie w jednej lini");
-                        Console.Write(wyjscie + " ");
-                        funkcja = Console.ReadLine()!;
-                        // tryb awaryjny i dziala
-                        if (funkcja.Equals("koniec"))
-                        {
-                            Console.WriteLine("Milo bylo wspolpracowac z trzezwa wersja ciebie");
-                            return;
-                        }
+                    Console.WriteLine("Napisz koniec aby zakonczyc dzialanie programu\n" + 
+                                      "Jakie dzialanie chcesz wykonac: +, -, *, / \n" + 
+                                      "Zapisz dzialanie w jednej lini");
+                    Console.Write(wyjscie + " ");
+                    funkcja = Console.ReadLine()!;
+                    // tryb awaryjny i dziala
+                    if (funkcja.Equals("koniec"))
+                    {
+                        Console.WriteLine("Milo bylo wspolpracowac z trzezwa wersja ciebie");
+                        return;
+                    }
                         
-                        String[] wartosci = funkcja.Split(" ");
-                        funkcja = wartosci[0];
-                        string liczbaTemp = wartosci[1];
-                        while (!double.TryParse(liczbaTemp, out liczba))
-                        {
-                            Console.Write($"{wyjscie} {funkcja} ");
-                            liczbaTemp = Console.ReadLine()!;
-                        }
+                    String[] wartosci = funkcja.Split(" ");
+                    funkcja = wartosci[0];
+                    string liczbaTemp = wartosci[1];
+                    while (!double.TryParse(liczbaTemp, out liczba))
+                    { 
+                        Console.Write($"{wyjscie} {funkcja} "); 
+                        liczbaTemp = Console.ReadLine()!;
+                    }
 
-                        temp = wyjscie;
+                    temp = wyjscie;
                     switch (funkcja)
                     {
                         case "+":
