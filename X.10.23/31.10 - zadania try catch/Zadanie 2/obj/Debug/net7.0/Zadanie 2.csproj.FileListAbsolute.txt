@@ -1,0 +1,15 @@
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/bin/Debug/net7.0/Zadanie 2
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/bin/Debug/net7.0/Zadanie 2.deps.json
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/bin/Debug/net7.0/Zadanie 2.runtimeconfig.json
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/bin/Debug/net7.0/Zadanie 2.dll
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/bin/Debug/net7.0/Zadanie 2.pdb
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/obj/Debug/net7.0/Zadanie 2.csproj.AssemblyReference.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/obj/Debug/net7.0/Zadanie 2.GeneratedMSBuildEditorConfig.editorconfig
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/obj/Debug/net7.0/Zadanie 2.AssemblyInfoInputs.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/obj/Debug/net7.0/Zadanie 2.AssemblyInfo.cs
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/obj/Debug/net7.0/Zadanie 2.csproj.CoreCompileInputs.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/obj/Debug/net7.0/Zadanie 2.dll
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/obj/Debug/net7.0/refint/Zadanie 2.dll
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/obj/Debug/net7.0/Zadanie 2.pdb
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/obj/Debug/net7.0/Zadanie 2.genruntimeconfig.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/Zadanie 2/obj/Debug/net7.0/ref/Zadanie 2.dll

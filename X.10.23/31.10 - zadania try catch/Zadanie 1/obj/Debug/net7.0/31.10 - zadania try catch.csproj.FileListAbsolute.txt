@@ -1,0 +1,15 @@
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/bin/Debug/net7.0/31.10 - zadania try catch
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/bin/Debug/net7.0/31.10 - zadania try catch.deps.json
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/bin/Debug/net7.0/31.10 - zadania try catch.runtimeconfig.json
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/bin/Debug/net7.0/31.10 - zadania try catch.dll
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/bin/Debug/net7.0/31.10 - zadania try catch.pdb
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/obj/Debug/net7.0/31.10 - zadania try catch.csproj.AssemblyReference.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/obj/Debug/net7.0/31.10 - zadania try catch.GeneratedMSBuildEditorConfig.editorconfig
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/obj/Debug/net7.0/31.10 - zadania try catch.AssemblyInfoInputs.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/obj/Debug/net7.0/31.10 - zadania try catch.AssemblyInfo.cs
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/obj/Debug/net7.0/31.10 - zadania try catch.csproj.CoreCompileInputs.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/obj/Debug/net7.0/31.10 - zadania try catch.dll
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/obj/Debug/net7.0/refint/31.10 - zadania try catch.dll
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/obj/Debug/net7.0/31.10 - zadania try catch.pdb
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/obj/Debug/net7.0/31.10 - zadania try catch.genruntimeconfig.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.10.23/31.10 - zadania try catch/obj/Debug/net7.0/ref/31.10 - zadania try catch.dll
