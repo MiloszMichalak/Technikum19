@@ -1,0 +1,18 @@
+Model kaskadowy - waterfall
+
+Polega on na wykonywaniu podstawowych czynności jako odrębnych faz projektowych, kolejno po sobie. Każda czynność to schodek (kaskady):
+
+1. Planowanie systemu (w tym specyfikacja wymagań).
+2. Analiza systemu (w tym analiza wymagań i studium wykonalności).
+3. Projekt systemu (poszczególnych struktur itp.).
+4. Implementacja (wytworzenie kodu).
+5. Testowanie (poszczególnych elementów systemu oraz elementów połączonych w całość).
+6. Wdrożenie i pielęgnacja powstałego systemu.
+
+Jeśli któraś z faz zwróci niesatysfakcjonujący produkt cofamy się wykonując kolejne iteracje aż do momentu kiedy otrzymamy satysfakcjonujący produkt na końcu schodków.
+
+Przykład:
+Zaprojektuj kalkulator logująco sprawdzający trzeźwość.
+Operacje arytmetyczne jakie kalkulator będzie wykonywał to: dodawanie, odejmowanie, mnożenie, dzielenie
+Na początku trzeba się będzie zalogować do niego podając login i hasło
+Kalkulator sprawdzać będzie trzeźwość usera przez przydzielenie mu prostego zadania w stylu: 4+5+6. Jeśli user odpowie dobrze kalkulator pozwoli mu na używanie.

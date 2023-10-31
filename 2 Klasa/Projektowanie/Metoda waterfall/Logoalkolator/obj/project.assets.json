@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\milos\\.nuget\\packages\\": {}
+    "/home/netrunner/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Szkola\\Repos\\Technikum19\\2 Klasa\\Projektowanie\\Metoda waterfall\\Logoalkolator\\Logoalkolator.csproj",
+      "projectUniqueName": "/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/2 Klasa/Projektowanie/Metoda waterfall/Logoalkolator/Logoalkolator.csproj",
       "projectName": "Logoalkolator",
-      "projectPath": "F:\\Szkola\\Repos\\Technikum19\\2 Klasa\\Projektowanie\\Metoda waterfall\\Logoalkolator\\Logoalkolator.csproj",
-      "packagesPath": "C:\\Users\\milos\\.nuget\\packages\\",
-      "outputPath": "F:\\Szkola\\Repos\\Technikum19\\2 Klasa\\Projektowanie\\Metoda waterfall\\Logoalkolator\\obj\\",
+      "projectPath": "/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/2 Klasa/Projektowanie/Metoda waterfall/Logoalkolator/Logoalkolator.csproj",
+      "packagesPath": "/home/netrunner/.nuget/packages/",
+      "outputPath": "/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/2 Klasa/Projektowanie/Metoda waterfall/Logoalkolator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\milos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/netrunner/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
       }
     }
   }

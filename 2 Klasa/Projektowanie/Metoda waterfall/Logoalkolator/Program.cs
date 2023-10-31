@@ -23,7 +23,7 @@
                 string? userPassword = Console.ReadLine();
                 Console.WriteLine();
 
-                StreamReader streamReader = new StreamReader("..\\..\\..\\Database\\users.txt");
+                StreamReader streamReader = new StreamReader("..\\..\\Database\\users.txt");
                 while (!streamReader.EndOfStream)
                 {
                     String[] values = streamReader.ReadLine()!.Split(";");
