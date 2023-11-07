@@ -1,0 +1,15 @@
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/bin/Debug/net7.0/7.11 Tablice
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/bin/Debug/net7.0/7.11 Tablice.deps.json
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/bin/Debug/net7.0/7.11 Tablice.runtimeconfig.json
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/bin/Debug/net7.0/7.11 Tablice.dll
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/bin/Debug/net7.0/7.11 Tablice.pdb
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/obj/Debug/net7.0/7.11 Tablice.csproj.AssemblyReference.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/obj/Debug/net7.0/7.11 Tablice.GeneratedMSBuildEditorConfig.editorconfig
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/obj/Debug/net7.0/7.11 Tablice.AssemblyInfoInputs.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/obj/Debug/net7.0/7.11 Tablice.AssemblyInfo.cs
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/obj/Debug/net7.0/7.11 Tablice.csproj.CoreCompileInputs.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/obj/Debug/net7.0/7.11 Tablice.dll
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/obj/Debug/net7.0/refint/7.11 Tablice.dll
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/obj/Debug/net7.0/7.11 Tablice.pdb
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/obj/Debug/net7.0/7.11 Tablice.genruntimeconfig.cache
+/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/obj/Debug/net7.0/ref/7.11 Tablice.dll
