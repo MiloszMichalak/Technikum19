@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+
+.con1{
+    background-color: aqua;
+    width: 50vw;
+}
+
+.con2{
+    background-color: bisque;
+    width: 50vw;
+}
+
+.conBig{
+    display: flex;
+    height: 100vh;
+}
