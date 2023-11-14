@@ -1,0 +1,15 @@
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/bin/Debug/net7.0/14.11 Tablice cwiczenia
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/bin/Debug/net7.0/14.11 Tablice cwiczenia.deps.json
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/bin/Debug/net7.0/14.11 Tablice cwiczenia.runtimeconfig.json
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/bin/Debug/net7.0/14.11 Tablice cwiczenia.dll
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/bin/Debug/net7.0/14.11 Tablice cwiczenia.pdb
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/obj/Debug/net7.0/14.11 Tablice cwiczenia.csproj.AssemblyReference.cache
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/obj/Debug/net7.0/14.11 Tablice cwiczenia.GeneratedMSBuildEditorConfig.editorconfig
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/obj/Debug/net7.0/14.11 Tablice cwiczenia.AssemblyInfoInputs.cache
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/obj/Debug/net7.0/14.11 Tablice cwiczenia.AssemblyInfo.cs
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/obj/Debug/net7.0/14.11 Tablice cwiczenia.csproj.CoreCompileInputs.cache
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/obj/Debug/net7.0/14.11 Tablice cwiczenia.dll
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/obj/Debug/net7.0/refint/14.11 Tablice cwiczenia.dll
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/obj/Debug/net7.0/14.11 Tablice cwiczenia.pdb
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/obj/Debug/net7.0/14.11 Tablice cwiczenia.genruntimeconfig.cache
+/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/obj/Debug/net7.0/ref/14.11 Tablice cwiczenia.dll
