@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+
+.con1{
+    background-color: aqua;
+    width: 50vw;
+    text-align: center;
+    padding-top: 25vh;
+}
+
+.con2{
+    background-color: bisque;
+    width: 50vw;
+    text-align: center;
+    padding-top: 35vh;
+}
+
+.conBig{
+    display: flex;
+    height: 100vh;
+}
