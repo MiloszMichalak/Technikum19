@@ -1,0 +1,15 @@
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\bin\Debug\net8.0\28.11 Tablice wymiarowe.exe
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\bin\Debug\net8.0\28.11 Tablice wymiarowe.deps.json
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\bin\Debug\net8.0\28.11 Tablice wymiarowe.runtimeconfig.json
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\bin\Debug\net8.0\28.11 Tablice wymiarowe.dll
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\bin\Debug\net8.0\28.11 Tablice wymiarowe.pdb
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\obj\Debug\net8.0\28.11 Tablice wymiarowe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\obj\Debug\net8.0\28.11 Tablice wymiarowe.AssemblyInfoInputs.cache
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\obj\Debug\net8.0\28.11 Tablice wymiarowe.AssemblyInfo.cs
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\obj\Debug\net8.0\28.11 Tablice wymiarowe.csproj.CoreCompileInputs.cache
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\obj\Debug\net8.0\28.11 Tablice wymiarowe.sourcelink.json
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\obj\Debug\net8.0\28.11 Tablice wymiarowe.dll
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\obj\Debug\net8.0\refint\28.11 Tablice wymiarowe.dll
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\obj\Debug\net8.0\28.11 Tablice wymiarowe.pdb
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\obj\Debug\net8.0\28.11 Tablice wymiarowe.genruntimeconfig.cache
+D:\Szkola\Repos\Technikum19\X.11.23\28.11 Tablice wymiarowe\obj\Debug\net8.0\ref\28.11 Tablice wymiarowe.dll
