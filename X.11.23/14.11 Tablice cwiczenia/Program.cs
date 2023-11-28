@@ -13,7 +13,6 @@ class Program
     // funkcja statyczna, która pozwala wprowadzić rozmiar tablicy i nazwę CreateArray()
     private static int[] CreateArray()
     {
-        
         Console.Write("Podaj rozmiar tablicy: ");
         int size = 0;
         try

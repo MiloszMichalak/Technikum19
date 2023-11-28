@@ -1,8 +1,45 @@
 {
   "version": 2,
-  "dgSpecHash": "r+13jOXzYc9mwNJHgQzI+lrx5JbyNgczPodoh3If2irLrS0zeMJuCZc9+FcTxqGvlbSwh/kG13TjF2hDD+l7Ow==",
-  "success": true,
-  "projectFilePath": "/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/7.11 Tablice.csproj",
+  "dgSpecHash": "2cK/ON82eTG8SmqQ9LVYnNtio4V2/Hj45WdQL/SLswPeyY3TDqPF2PV79ria9GjlmZsHPnoFBs2amdjoLTVKYQ==",
+  "success": false,
+  "projectFilePath": "D:\\Szkola\\Repos\\Technikum19\\X.11.23\\7.11 Tablice\\7.11 Tablice.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 7.0.14)' for 'net7.0'.",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Ref (= 7.0.14)' for 'net7.0'.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Ref (= 7.0.14)' for 'net7.0'.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Host.win-x64 (= 7.0.14)' for 'net7.0'.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

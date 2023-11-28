@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/7.11 Tablice.csproj": {}
+    "D:\\Szkola\\Repos\\Technikum19\\X.11.23\\7.11 Tablice\\7.11 Tablice.csproj": {}
   },
   "projects": {
-    "/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/7.11 Tablice.csproj": {
+    "D:\\Szkola\\Repos\\Technikum19\\X.11.23\\7.11 Tablice\\7.11 Tablice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/7.11 Tablice.csproj",
+        "projectUniqueName": "D:\\Szkola\\Repos\\Technikum19\\X.11.23\\7.11 Tablice\\7.11 Tablice.csproj",
         "projectName": "7.11 Tablice",
-        "projectPath": "/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/7.11 Tablice.csproj",
-        "packagesPath": "/home/netrunner/.nuget/packages/",
-        "outputPath": "/media/netrunner/zewnetrzny/Szkola/Repos/Technikum19/X.11.23/7.11 Tablice/obj/",
+        "projectPath": "D:\\Szkola\\Repos\\Technikum19\\X.11.23\\7.11 Tablice\\7.11 Tablice.csproj",
+        "packagesPath": "C:\\Users\\Meleko\\.nuget\\packages\\",
+        "outputPath": "D:\\Szkola\\Repos\\Technikum19\\X.11.23\\7.11 Tablice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/netrunner/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Meleko\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
@@ -48,12 +45,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

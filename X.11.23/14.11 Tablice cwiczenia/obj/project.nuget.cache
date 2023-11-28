@@ -1,8 +1,45 @@
 {
   "version": 2,
-  "dgSpecHash": "eT61V+MYAsIRvDEaK2I3o2Y3Ixsd7UL4J3ze9iRsw2ztxqVsB7SQxq0QGrNdhKhibtNXUbcE1l8xW8kxbvLLNw==",
-  "success": true,
-  "projectFilePath": "/media/netrunner/zewnetrzny/PV/Repos/Technikum19/X.11.23/14.11 Tablice cwiczenia/14.11 Tablice cwiczenia.csproj",
+  "dgSpecHash": "0a/vpDpil78vHJTNDr2S3gBKUn0B8PwjYHwLFoFFs/+tMkMb4TgOvpClBeOydQ1EAImo7N3RoZhKwhywCX1BoA==",
+  "success": false,
+  "projectFilePath": "D:\\Szkola\\Repos\\Technikum19\\X.11.23\\14.11 Tablice cwiczenia\\14.11 Tablice cwiczenia.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 7.0.14)' for 'net7.0'.",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Ref (= 7.0.14)' for 'net7.0'.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Ref (= 7.0.14)' for 'net7.0'.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Host.win-x64 (= 7.0.14)' for 'net7.0'.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

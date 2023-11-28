@@ -14,7 +14,8 @@ tab2[0] = 2;
 tab2[1] = 1;
 
 // Zadanie
-// Napisz proram, który pobiera od uzytkownika 5 liczb calkowitych i zapisuje je w tablicy, Natepnie program wyswietla sume wszystkich elementow w tablicy
+// Napisz proram, który pobiera od uzytkownika 5 liczb calkowitych i zapisuje je w tablicy, Natepnie program wyswietla sume
+// wszystkich elementow w tablicy
 // Console.WriteLine("Zadanie 1");
 //
 // int[] zadania = new int[5];
