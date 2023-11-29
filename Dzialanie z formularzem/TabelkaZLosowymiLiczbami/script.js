@@ -1,7 +1,8 @@
-let i = 1, a;
+let i = 0;
 const b = [];
 document.write("<table>");
-do{
+while(i < 6)
+{
     a = parseInt(Math.random() * 100 + 1);
     if(b.includes(a)){
        continue;
@@ -9,7 +10,7 @@ do{
     else {
         b.push(a);
     }
-    document.write("<tr><td>"+a+"</td></tr>");
+    document.write("<tr><td>" + a + "</td></tr>");
     i++;
-} while (i <= 6);
+}
 document.write("</table>");
