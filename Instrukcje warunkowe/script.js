@@ -1,35 +1,38 @@
-// * Kod sprawdzajacy podane imie 
-let informacja = document.getElementById("informacja");
-// let imie = prompt("Podaj swoje imie", "Imie");
-// if (imie === "admin"){
-//     informacja.innerText = "Witaj na stronie";
-// } else {
-//     informacja.innerText = "Nie wiem co tutaj szukasz";
-// }
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.todoapp.test" >
 
-// * Sprawdzanie jednoczesnie loginu i hasła za pomoca operatora logicznego = && czyli and
-// let login = prompt("Podaj login", "login");
-// let password = prompt("Podaj swoje hasło", "hasło");
-// if (login == "admin" && password == "123"){
-//     informacja.innerText = "Witaj na stronie";
-// } else {
-//     alert("Podałeś błędny login lub hasło");
-// }
+    <uses-sdk
+        android:minSdkVersion="33"
+        android:targetSdkVersion="34" />
 
-// * Funkcja ktora sprawdza haslo nie podaje wprost ze wynosi ono "8" tylko sprawdza czy jest to 8 za pomoca kodu ASCII
-function szyfrowanie(){
-    let login = prompt("Podaj swoj login", "login");
-    let password = prompt("Podaj swoje hasło", "hasło");
-    let haslo = password.charCodeAt(0);
-    if (login == "admin" && haslo == 56){
-        informacja.innerText = "Udalo ci sie zalogowac";
-    } else {
-        alert("Podałeś błędny login lub hasło");
-    }
-}
+    <instrumentation
+        android:name="androidx.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.example.todoapp"
+        android:targetPackage="com.example.todoapp" />
 
-// * Funkcja ktora zmienia znak na cyfre w kodzie ascii, index 0 oznacza ze zamienia tylko 1 znak na ascii
-function szyfrowanieZnaku(){
-    let litera = prompt("Podaj znak do zaszyfrowania", "");
-    alert("Zaszyfrowany znak: (cyfra w kodzie ascii) - " + litera.charCodeAt(0));
-}
+    <uses-permission android:name="android.permission.REORDER_TASKS" />
+
+    <queries>
+        <package android:name="androidx.test.orchestrator" />
+        <package android:name="androidx.test.services" />
+        <package android:name="com.google.android.apps.common.testing.services" />
+    </queries>
+
+    <application
+        android:debuggable="true"
+        android:extractNativeLibs="false" >
+        <uses-library android:name="android.test.runner" />
+
+        <activity
+            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+            android:exported="true"
+            android:theme="@style/WhiteBackgroundTheme" >
+            <intent-filter android:priority="-100" >
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=
