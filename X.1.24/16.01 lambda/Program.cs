@@ -26,13 +26,14 @@ class Program
         }
 
         // Ordinal Ingore Case sluzy do nie zwracania uwagi na wielkosc litery
-        List<string> namesStartWithA = names.Where(item => item.StartsWith("A", StringComparison.OrdinalIgnoreCase)).ToList();
+        List<string> namesStartWithA =
+            names.Where(item => item.StartsWith("A", StringComparison.OrdinalIgnoreCase)).ToList();
 
         Console.WriteLine("\n Wyswietlenie tablicy imion i wiekow osob: ");
         PrintArray(namesStartWithA);
 
         Dictionary<string, int> adults = new Dictionary<string, int>();
-        
+
         for (int i = 0; i < names.Length; i++)
         {
             if (ages[i] >= 18)
@@ -87,7 +88,10 @@ class Program
         {
             Console.Write(prompt);
             result = Console.ReadLine()!;
-            // Console.WriteLine("Podaj nie pusty ciag znakow");
+            if (string.IsNullOrEmpty(result))
+            {
+                Console.WriteLine("Podaj niepusty ciąg znaków");
+            }
         } while (string.IsNullOrEmpty(result));
 
         return result;
