@@ -18,15 +18,14 @@ internal class Program
 
         Teacher teacher1 = new Teacher();
         
-        // cos tutaj nie zczytuje i nie wiem dlczego tak jest
-        // teacher1.Subjects = new List<string>("Matematyka", "Informatyka", "Historia");
+        teacher1.Subjects = new List<string> {"Matematyka", "Informatyka", "Historia"};
 
-        // foreach (var subject in teacher1.Subjects)
-        // {
-        //     Console.WriteLine(subject);
-        // }
+        foreach (var subject in teacher1.Subjects)
+        {
+            Console.WriteLine(subject);
+        }
 
-        // Console.WriteLine(string.Join(", ", teacher1.Subjects));
+        Console.WriteLine(string.Join(", ", teacher1.Subjects));
 
         nowak.Adress = new Adress();
         nowak.Adress.city = "Poznan";
