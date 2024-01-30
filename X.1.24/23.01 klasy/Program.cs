@@ -42,5 +42,6 @@ internal class Program
         Console.WriteLine("Data urodzenia: {0}", nowak.DateOfBirth.ToShortDateString());
         
         nowak.DateOfBirth = new DateTime(2000, 08, 13);
+        Console.WriteLine("Data i czas: {0}", nowak.DateOfBirth.ToLongDateString());
     }
 }
