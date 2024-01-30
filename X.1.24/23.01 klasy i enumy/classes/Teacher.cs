@@ -1,4 +1,4 @@
-namespace Klasy;
+namespace Klasy.classes;
 
 public class Teacher
 {

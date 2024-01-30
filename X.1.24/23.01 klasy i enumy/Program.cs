@@ -1,4 +1,5 @@
-﻿namespace Klasy;
+﻿using Klasy.classes;
+namespace Klasy;
 
 internal class Program
 {
@@ -43,5 +44,14 @@ internal class Program
         
         nowak.DateOfBirth = new DateTime(2000, 08, 13);
         Console.WriteLine("Data i czas: {0}", nowak.DateOfBirth.ToLongDateString());
+        
+        Console.Clear();
+        Person p1 = new Person();
+        p1.gender = Person.Gender.Mezczyzna;
+        Console.WriteLine(p1.gender);
+        
+        p1.ranks = Person.Ranks.Administrator;
+        Console.WriteLine("Ranga uzytkownika p1: {0}", p1.ranks);
+        
     }
 }
