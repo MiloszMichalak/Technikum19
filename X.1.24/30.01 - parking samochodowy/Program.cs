@@ -2,8 +2,8 @@
 
 class Program
 {
-    // Zadanie: Napisz program, który symuluje działanie parkingu samochodowego.
-    // Utwórz typ wyliczenia Color, który zawiera pięć kolorów: Red, Blue, Green, Black, White.
+            // Zadanie: Napisz program, który symuluje działanie parkingu samochodowego.
+            // Utwórz typ wyliczenia Color, który zawiera pięć kolorów: Red, Blue, Green, Black, White.
     
     // Utwórz klasę Car, która reprezentuje samochód. Klasa ta powinna mieć następujące właściwości tylko do odczytu:
     // Brand (marka), Model (model), Year (rok produkcji), Color (kolor). 

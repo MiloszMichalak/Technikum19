@@ -15,32 +15,36 @@ public class Parking
     {
         Slots = slots;
         Name = name;
+        cars = new Car[Slots];
     }
 
     public string Name { get; set; }
     public static int Slots { get; set; }
-    private Car[] cars = new Car[Slots];
+    private Car[] cars;
     
-    public void AddCar(Car car)
+    public void AddCar(int index, Car car)
     {
-        if 
+        cars[index] = car;
     }
 
     public void RemoveCar(int slot)
     {
-        if (!Cars[slot].Equals(null))
+        if (cars[slot].Equals(null))
         {
-            Cars.RemoveAt(slot);
+            Console.WriteLine("W tym miejscu nie ma samochodu");
         }
 
-        Console.WriteLine("Podano nieprawidlowy index");
+        
     }
 
     public void ShowCars()
     {
-        for (int i = 0; i < Cars.Count; i++)
+        for (int i = 0; i < cars.Length; i++)
         {
-            Console.WriteLine($"Na miejscu {i} stoi {Cars[i].ShowInformation()}");
+            if ()
+            {
+                Console.WriteLine($"Na miejscu {i} stoi {cars[i].ShowInformation()}");
+            }
         } 
     }
     
