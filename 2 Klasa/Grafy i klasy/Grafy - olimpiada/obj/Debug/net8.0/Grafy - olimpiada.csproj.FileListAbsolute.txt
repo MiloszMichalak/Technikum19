@@ -1,0 +1,15 @@
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\bin\Debug\net8.0\Grafy - olimpiada.exe
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\bin\Debug\net8.0\Grafy - olimpiada.deps.json
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\bin\Debug\net8.0\Grafy - olimpiada.runtimeconfig.json
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\bin\Debug\net8.0\Grafy - olimpiada.dll
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\bin\Debug\net8.0\Grafy - olimpiada.pdb
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\obj\Debug\net8.0\Grafy - olimpiada.GeneratedMSBuildEditorConfig.editorconfig
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\obj\Debug\net8.0\Grafy - olimpiada.AssemblyInfoInputs.cache
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\obj\Debug\net8.0\Grafy - olimpiada.AssemblyInfo.cs
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\obj\Debug\net8.0\Grafy - olimpiada.csproj.CoreCompileInputs.cache
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\obj\Debug\net8.0\Grafy - olimpiada.sourcelink.json
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\obj\Debug\net8.0\Grafy - olimpiada.dll
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\obj\Debug\net8.0\refint\Grafy - olimpiada.dll
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\obj\Debug\net8.0\Grafy - olimpiada.pdb
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\obj\Debug\net8.0\Grafy - olimpiada.genruntimeconfig.cache
+F:\Szkola\Repos\Technikum19\2 Klasa\Grafy i klasy\Grafy - olimpiada\obj\Debug\net8.0\ref\Grafy - olimpiada.dll
