@@ -1,0 +1,30 @@
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\bin\Debug\net8.0\Kolekcje.exe
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\bin\Debug\net8.0\Kolekcje.deps.json
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\bin\Debug\net8.0\Kolekcje.runtimeconfig.json
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\bin\Debug\net8.0\Kolekcje.dll
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\bin\Debug\net8.0\Kolekcje.pdb
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\obj\Debug\net8.0\Kolekcje.GeneratedMSBuildEditorConfig.editorconfig
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\obj\Debug\net8.0\Kolekcje.AssemblyInfoInputs.cache
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\obj\Debug\net8.0\Kolekcje.AssemblyInfo.cs
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\obj\Debug\net8.0\Kolekcje.csproj.CoreCompileInputs.cache
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\obj\Debug\net8.0\Kolekcje.sourcelink.json
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\obj\Debug\net8.0\Kolekcje.dll
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\obj\Debug\net8.0\refint\Kolekcje.dll
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\obj\Debug\net8.0\Kolekcje.pdb
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\obj\Debug\net8.0\Kolekcje.genruntimeconfig.cache
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\cwiczenie 1\obj\Debug\net8.0\ref\Kolekcje.dll
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\bin\Debug\net8.0\Kolekcje.exe
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\bin\Debug\net8.0\Kolekcje.deps.json
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\bin\Debug\net8.0\Kolekcje.runtimeconfig.json
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\bin\Debug\net8.0\Kolekcje.dll
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\bin\Debug\net8.0\Kolekcje.pdb
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\obj\Debug\net8.0\Kolekcje.GeneratedMSBuildEditorConfig.editorconfig
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\obj\Debug\net8.0\Kolekcje.AssemblyInfoInputs.cache
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\obj\Debug\net8.0\Kolekcje.AssemblyInfo.cs
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\obj\Debug\net8.0\Kolekcje.csproj.CoreCompileInputs.cache
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\obj\Debug\net8.0\Kolekcje.sourcelink.json
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\obj\Debug\net8.0\Kolekcje.dll
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\obj\Debug\net8.0\refint\Kolekcje.dll
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\obj\Debug\net8.0\Kolekcje.pdb
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\obj\Debug\net8.0\Kolekcje.genruntimeconfig.cache
+F:\Szkola\Repos\Technikum19\2 Klasa\Kolekcje\obj\Debug\net8.0\ref\Kolekcje.dll
